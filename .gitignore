@@ -1,0 +1,8 @@
+.pio
+.vscode
+*.zip
+*.tar
+*.7z
+*.o
+*.a
+*.obj
